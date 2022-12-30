@@ -1,15 +1,14 @@
-# Hi there 👋 , I'm Yusuf!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as PHP.  
+### Hi there, I'm Yusuf Rizal I 👋
 
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=egmu&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egmu&layout=compact" height=180 />
+### and here is my stats
+<p align="center"><img src="https://www.codewars.com/users/egmu/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=egmu&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egmu&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egmu&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
-
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -22,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
