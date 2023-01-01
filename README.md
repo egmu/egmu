@@ -1,7 +1,9 @@
 ### Hi there, I'm Yusuf Rizal I 👋
 
 ### and here is my stats
-
+<a href="https://github.com/egmu">
+    <img src="https://github-stats-alpha.vercel.app/api?username=egmu&cc=22272e&tc=37BCF6&ic=fff&bc=0000&theme=monokai">
+</a>
   <img src="https://github-readme-stats.vercel.app/api?username=egmu&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=egmu&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egmu&layout=compact&theme=monokai&langs_count=12"/><br />
